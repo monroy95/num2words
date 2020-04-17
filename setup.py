@@ -59,17 +59,17 @@ def find_version(fname):
 setup(
     name=PACKAGE_NAME,
     version=find_version("bin/num2words"),
-    description='Modules to convert numbers to words. Easily extensible.',
+    description='Modules to convert numbers to words. Easily extensible. To Guatemala',
     long_description=LONG_DESC,
     license='LGPL',
     author='Taro Ogawa <tso at users sourceforge net>',
     author_email='tos@users.sourceforge.net',
-    maintainer='Savoir-faire Linux inc.',
-    maintainer_email='istvan.szalai@savoirfairelinux.com',
+    maintainer='monroy95 Si Hay Sistema',
+    maintainer_email='m.monroyc22@gmail.com',
     keywords=' number word numbers words convert conversion i18n '
              'localisation localization internationalisation '
              'internationalization',
-    url='https://github.com/savoirfairelinux/num2words',
+    url='https://github.com/monroy95/num2words',
     packages=find_packages(exclude=['tests']),
     test_suite='tests',
     classifiers=CLASSIFIERS,
