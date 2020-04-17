@@ -20,7 +20,7 @@ from io import open
 
 from setuptools import find_packages, setup
 
-PACKAGE_NAME = "num2words"
+PACKAGE_NAME = "num2wordsGuatemala"
 
 CLASSIFIERS = [
     'Development Status :: 5 - Production/Stable',
